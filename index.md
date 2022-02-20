@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Huynhphuoclan/PLaan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<p><img src="https://komarev.com/ghpvc/?username=21521160&amp;color=green&amp;style=flat-square
+" alt="" /></p>
+<h1 id="about-me">About me</h1>
+<li><strong>Full Name:</strong> Huỳnh Phước Lân </li>
+<li><strong>Address:</strong> Đà Nẵng </li>
+<li><strong>Date of birth:</strong> 15/05/2003 </li>
+<li><strong>Phone Number:</strong> 0905643317 </li>
+<p>Programming language: <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++"></p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h2 id="education">
+ Education </h2>
+  <li>University: <strong>University of Information Technology - HCMUIT</strong>
+    <ul>
+      <li>Branch of learning: <strong>Computer Science</strong></li>
+    </ul>
+  </li>
+<h2 id="skill">
+  Skills </h2>
+<li><strong> Teamwork
+<li><strong> Teamleader
+  
+<h2 id="interest">
+  Interest </h2>
+<li><strong> Game
+<li><strong> Hang out with friends 
+<li><strong> Experience 
+<h2 id="contact">
+  Support or Contact </h2>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Huynhphuoclan/PLaan/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<a href="https://www.facebook.com/huynhphuoclan"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&amp;logo=Facebook&amp;logoColor=white
+" alt="Facebook" /></a>
+<a href="mailto:215211064@gm.uit.edu.vn"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white
+" alt="Gmail" /></a>
+</strong></li></strong></li></strong></li></strong></li></strong></li></li></li></li></li>

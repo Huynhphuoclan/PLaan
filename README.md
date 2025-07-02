@@ -22,8 +22,8 @@
 </li>
 <li>Certification:
   <ul>
-    <li>JLPT: N4</li>
-    <li>TOEIC: Reading/Listening: 600/990 – Speaking/Listening: 250/400</li>
+<!--     <li>JLPT: N4</li>
+    <li>TOEIC: Reading/Listening: 600/990 – Speaking/Listening: 250/400</li> -->
   </ul>
 </li>
 
@@ -37,7 +37,7 @@
   <li><strong>Frameworks:</strong> FastAPI, Keras, OpenCV, Pytorch, Scikit-learn, Tensorflow</li>
   <li><strong>Application:</strong> Web application development</li>
   <li><strong>Tools:</strong> Docker, Github</li>
-  <li><strong>Soft Skills:</strong> Teamwork, Team leader</li>
+<!--   <li><strong>Soft Skills:</strong> Teamwork, Team leader</li> -->
 </ul>
 
 <h2 id="projects">Projects</h2>
@@ -58,12 +58,12 @@
       <li>Link: <a href="https://github.com/hungnv2003bta/number_license_plate_recognition">License Plate Recognition GitHub</a></li>
     </ul>
   </li>
-  <li><strong>POC Project – IoYou Company</strong>
+<!--   <li><strong>POC Project – IoYou Company</strong>
     <ul>
       <li>Summary: Tongue image based health tracking</li>
       <li>Role: Model research, parameter optimization, commercial planning</li>
     </ul>
-  </li>
+  </li> -->
 </ul>
 
 <h2 id="experience">Experience</h2>
@@ -73,13 +73,13 @@
       <li><strong>Position:</strong> AI Engineer Intern</li>
       <li><strong>Duration:</strong> 03/2025 – 06/2025</li>
     </ul>
-  </li>
+<!--   </li>
   <li><strong>IoYou Company, Japan – Remote</strong>
     <ul>
       <li><strong>Position:</strong> AI Engineer</li>
       <li><strong>Duration:</strong> 08/2025 – (ongoing)</li>
     </ul>
-  </li>
+  </li> -->
 </ul>
 
 <h2 id="interest">Interest</h2>

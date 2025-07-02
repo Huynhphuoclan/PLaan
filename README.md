@@ -23,9 +23,9 @@
   
 <h2 id="interest">
   Interest </h2>
-<li><strong> Game
+<li><strong> 
 <li><strong> Hang out with friends 
-<li><strong> Experience 
+<h2 id="experience">
 <h2 id="contact">
   Support or Contact </h2>
 

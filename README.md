@@ -4,7 +4,8 @@
 
 <h1 id="about-me">About me</h1>
 <li><strong>Full Name:</strong> Huỳnh Phước Lân</li>
-<li><strong>Address:</strong> 319 Bùi Thiện Ngộ, Hòa Xuân, Cẩm Lệ, Đà Nẵng</li>
+<!-- <li><strong>Address:</strong> 319 Bùi Thiện Ngộ, Hòa Xuân, Cẩm Lệ, Đà Nẵng</li> -->
+<li><strong>Address:</strong> Đà Nẵng</li>
 <li><strong>Date of birth:</strong> 15/05/2003</li>
 <li><strong>Phone Number:</strong> 0905643317</li>
 <p>Programming language: 

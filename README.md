@@ -26,6 +26,7 @@
 <li><strong> 
 <li><strong> Hang out with friends 
 <h2 id="experience">
+  Experience </h2>
 <h2 id="contact">
   Support or Contact </h2>
 
